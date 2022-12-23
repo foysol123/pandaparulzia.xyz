@@ -1,11 +1,13 @@
 #!/bin/bash
 #Script Variables
 HOST='174.138.184.18';
-USER='fplusvip_admin11';
-PASS='@@Foysol123';
-DBNAME='fplusvip_admin11';
+USER='fplusvip_shahadat';
+PASS='shahadat123';
+DBNAME='fplusvip_shahadat';
 PORT_TCP='1194';
 PORT_UDP='53';
+API_LINK='https://pandaparulzia.xyz/api/authentication';
+API_KEY='FOYSOL';
 timedatectl set-timezone Asia/Riyadh
 install_require () {
 clear
