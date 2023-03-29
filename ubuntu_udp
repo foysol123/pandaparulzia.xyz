@@ -6,7 +6,7 @@ PASS='foysol514';
 DBNAME='foysolne_foysol514';
 PORT_TCP='5666';
 PORT_UDP='5666';
-SUB_DOMAIN=uk3y.orangemasterbd.xyz
+SUB_DOMAIN=ntbf.orangemasterbd.xyz
 MYIP=$(wget -qO- icanhazip.com);
 server_ip=$(curl -s https://api.ipify.org)
 timedatectl set-timezone Asia/Riyadh
